@@ -1,4 +1,4 @@
-[Google](https://www.google.com)
+![Логотип GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 # 99 names of Allah 
 
