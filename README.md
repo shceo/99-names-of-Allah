@@ -1,4 +1,4 @@
-** 99 names of Allah **
+# 99 names of Allah 
 
 
 ## supported languages 
